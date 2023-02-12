@@ -13,7 +13,7 @@ O resultado da aplicação pode ser acessado através da seguinte URL: [https://
 <img alt="layout-tech-gallery" title="tech-gallery" src="images/layout-tech-gallery.png" width="800px">
 
 
-📝 Habilidades
+## 📝 Habilidades
 
 Criar uma página web utilizando HTML.
 Estilizar a página utilizando conceitos de CSS Flexbox.
