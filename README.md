@@ -13,7 +13,7 @@ O resultado da aplicação pode ser acessado através da seguinte URL: [https://
 <img alt="layout-tech-gallery" title="tech-gallery" src="images/layout-tech-gallery.png" width="800px">
 
 
-## 📝 Habilidades
+## 👩‍💻 Habilidades
 
 Criar uma página web utilizando HTML.
 Estilizar a página utilizando conceitos de CSS Flexbox.
@@ -22,7 +22,7 @@ Utilizar a propriedade justify-content com os valores center, flex-start, flex-e
 Utilizar a propriedade align-items com os valores stretch, center, flex-start, flex-end, baseline
 
 
-## Requisitos
+## 📝 Requisitos
 
 1. Criar um cabeçalho utilizando a tag header
 O Cabeçalho deve possuir a classe header-container, ser um flex-container e ter 3 elementos filhos: um logotipo com a classe header-img, um título com a classe header-img e um link de login com a classe header-login.
